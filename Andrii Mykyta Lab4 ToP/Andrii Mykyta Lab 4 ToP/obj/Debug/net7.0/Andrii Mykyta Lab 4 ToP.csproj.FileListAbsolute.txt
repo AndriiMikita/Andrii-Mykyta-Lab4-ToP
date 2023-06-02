@@ -1,0 +1,17 @@
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Andrii Mykyta Lab 4 ToP.exe
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Andrii Mykyta Lab 4 ToP.deps.json
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Andrii Mykyta Lab 4 ToP.runtimeconfig.json
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Andrii Mykyta Lab 4 ToP.dll
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Andrii Mykyta Lab 4 ToP.pdb
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.csproj.AssemblyReference.cache
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.AssemblyInfoInputs.cache
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.AssemblyInfo.cs
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.csproj.CoreCompileInputs.cache
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.dll
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\refint\Andrii Mykyta Lab 4 ToP.dll
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.pdb
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.genruntimeconfig.cache
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\ref\Andrii Mykyta Lab 4 ToP.dll
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Prog\C#\ToP\Andrii Mykyta Lab 4 ToP\obj\Debug\net7.0\Andrii Mykyta Lab 4 ToP.csproj.CopyComplete

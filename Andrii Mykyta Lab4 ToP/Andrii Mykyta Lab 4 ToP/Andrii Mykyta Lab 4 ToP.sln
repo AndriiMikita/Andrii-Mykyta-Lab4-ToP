@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andrii Mykyta Lab 4 ToP", "Andrii Mykyta Lab 4 ToP.csproj", "{101CA674-CF9B-473B-854D-A1E46D27993B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andrii Mikita Lab4 ToP Tests", "..\Andrii Mikita Lab4 ToP Tests\Andrii Mikita Lab4 ToP Tests.csproj", "{256065DA-C5F2-4A2D-8D11-C1E1FCAAD90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101CA674-CF9B-473B-854D-A1E46D27993B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101CA674-CF9B-473B-854D-A1E46D27993B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101CA674-CF9B-473B-854D-A1E46D27993B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101CA674-CF9B-473B-854D-A1E46D27993B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{256065DA-C5F2-4A2D-8D11-C1E1FCAAD90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{256065DA-C5F2-4A2D-8D11-C1E1FCAAD90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{256065DA-C5F2-4A2D-8D11-C1E1FCAAD90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{256065DA-C5F2-4A2D-8D11-C1E1FCAAD90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE4B2534-D50A-42D3-81D8-EBF9799FFE21}
+	EndGlobalSection
+EndGlobal
